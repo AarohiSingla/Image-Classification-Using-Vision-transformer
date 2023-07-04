@@ -7,9 +7,6 @@ git clone https://github.com/AarohiSingla/Image-Classification-Using-Vision-tran
 
 Follow the video to understand the code: https://youtu.be/awyWND506NY
 
-![image](https://github.com/AarohiSingla/Image-Classification-Using-Vision-transformer/assets/60029146/56a6a8f5-fff8-4fca-80e7-4917a3f6ddcc)
+![v](https://github.com/AarohiSingla/Image-Classification-Using-Vision-transformer/assets/60029146/5e25d95a-bba8-4066-9304-d29185122c47)
 
-
-![image](https://github.com/AarohiSingla/Image-Classification-Using-Vision-transformer/assets/60029146/cc061684-348b-4c51-afe3-4e88b7a9f5e7)
-
-
+![w](https://github.com/AarohiSingla/Image-Classification-Using-Vision-transformer/assets/60029146/1a72d231-f7e3-4a78-bb2c-99872c546fe1)
